@@ -1,0 +1,262 @@
+[
+  {
+    "id": 0,
+    "name": "발자취",
+    "category": "stu",
+    "area": "AL",
+    "logo": null,
+    "introduction": "고궁, 투어와 같이 역사적인 장소를 방문하거나 박물관을 탐방하여 역사에 대해서 알아보는 학술 동아리 입니다. 비대면 활동으로는 시사교양 프로그램, 책 등을 통해 역사적 지식을 쌓고 의견을 공유하는 동아리 입니다.",
+    "view": 727,
+    "scrap": 2
+  },
+  {
+    "id": 1,
+    "name": "스터디윗어스",
+    "category": "stu",
+    "area": "CL",
+    "logo": null,
+    "introduction": "나를 위한 가치투자 시간, 함께 공부해요!",
+    "view": 235,
+    "scrap": 5
+  },
+  {
+    "id": 2,
+    "name": "내면",
+    "category": "stu",
+    "area": "CL",
+    "logo": null,
+    "introduction": "책소모임 내면\n같이 책읽고 나눔합니다.",
+    "view": 147,
+    "scrap": 1
+  },
+  {
+    "id": 3,
+    "name": "아고라, 서울",
+    "category": "art",
+    "area": "CL",
+    "logo": null,
+    "introduction": "예술토론동아리 아고라, 서울입니다. 책, 영화, 연극 등 작품 감상을 통해 서로 의견을 나누며 생각의 지평을 넓힐 수 있는 모임",
+    "view": 34,
+    "scrap": 0
+  },
+  {
+    "id": 4,
+    "name": "오늘 당장 유튜브를 해보자:오늘",
+    "category": "art",
+    "area": "CL",
+    "logo": null,
+    "introduction": "책소모임 내면\n같이 책읽고 나눔합니다.",
+    "view": 556,
+    "scrap": 6
+  },
+  {
+    "id": 5,
+    "name": "봄 벚꽃말고 그림",
+    "category": "art",
+    "area": "CL",
+    "logo": null,
+    "introduction": "[그림 소모임]\n봄, 그림, 스터디말고\n\n바쁜 일상속, 그림으로 힐링하다\n- 운영진이 랜덤뽑기로 정해준 짝궁과 함께 사물부터 사람까지 다양한 주제로 그림 그리고 같이 공유하는 그림동아리 입니다. 그림 그리는 취미를 가진 대학생들이 다양한 사람들과 재밌는 추억을 만들면서 그림그리자! 라는 취지로 만들어졌습니다!",
+    "view": 782,
+    "scrap": 10
+  },
+  {
+    "id": 6,
+    "name": "MACTAIL 맥테일",
+    "category": "fri",
+    "area": "CB",
+    "logo": null,
+    "introduction": "대전권 대학생 연합 동아리 맥테일은 펍, 칵테일바와 같이 가볍고 건전한 술자리를 좋아하는 분들을 위한 동아리 입니다!! 시끄러운 술자리는 부담스러워 하시는 분들도 즐기실 수 있을거라 장담합니다! 물론 분위기 띄워주실 인싸분들도 두 팔 벌려 환영합니다~~",
+    "view": 886,
+    "scrap": 6
+  },
+  {
+    "id": 7,
+    "name": "핫식스",
+    "category": "fri",
+    "area": "CL",
+    "logo": null,
+    "introduction": "핫식스는 맛집탐방을 주로 하며 부가적인 활동으로 파티, 여행, 취미생활, 문화생활, 스포츠, 호캉스 등등 여러분들이 평소에 하고 싶었던 모든 활동들을 하며 친목을 쌓아가는 동아리입니다!! 저희 핫식스에서 여러분들의 꿈을 이뤄드리겠습니다!!",
+    "view": 1205,
+    "scrap": 23
+  },
+  {
+    "id": 8,
+    "name": "양화대교",
+    "category": "fri",
+    "area": "CL",
+    "logo": null,
+    "introduction": "안녕하세요 신촌맛집탐방동아리 양화대교 입니다!\n양화대교는 신촌을 중심으로 활동하며 다양한 맛집을 공유하고 즐기는 신촌 맛집 탐방 동아리입니다.",
+    "view": 2338,
+    "scrap": 40
+  },
+  {
+    "id": 9,
+    "name": "워킹 포레스트",
+    "category": "phy",
+    "area": "CB",
+    "logo": null,
+    "introduction": "심심하거나 집에 있기 답답하고 우울하다면 기분 전환겸 사람들과 함께 자연을 보면서 힐링하는게 어떨까요?",
+    "view": 436,
+    "scrap": 9
+  },
+  {
+    "id": 10,
+    "name": "팀 마그누스 주짓수 동아리",
+    "category": "phy",
+    "area": "CL",
+    "logo": null,
+    "introduction": "평소 주짓수를 하고 싶었는데 돈, 시간 등이 모자라셔서 못하셨다고요? 그럼 저희 팀 마그누스로 오세요! 가족같은 끈끈함과 꼼꼼한 코치진의 지도로 주짓수에 빠지게 해드리겠습니다!!",
+    "view": 2203,
+    "scrap": 165
+  },
+  {
+    "id": 11,
+    "name": "올라",
+    "category": "phy",
+    "area": "KB",
+    "logo": null,
+    "introduction": "안녕하세요 등산 동아리 올라입니다.\n저희는 대구 산을 오르며 친목도모 및 건강을 위해 산을 오르는 올라 입니다.\n등린이 모두 환영합니다~!",
+    "view": 249,
+    "scrap": 17
+  },
+  {
+    "id": 12,
+    "name": "티키타카",
+    "category": "phy",
+    "area": "KB",
+    "logo": null,
+    "introduction": "배드민턴 동아리 티키타카입니다. 부산내 대학생들끼리 모여서 소소하게 배드민턴하고 있습니다. 장소는 전포배드민턴장에서 매주 토 or 일에서 하고 있습니다.",
+    "view": 582,
+    "scrap": 22
+  },
+  {
+    "id": 13,
+    "name": "제주로",
+    "category": "vac",
+    "area": "CL",
+    "logo": null,
+    "introduction": "안녕하세요. 여행동아리 제주로입니다!\n소중한 친구들과의 여행도 좋지만, 새롭게 사귄 친구들과 가는 여행은 어떠세요?\n여행을 좋아하는 사람들끼리 모여 즐거운 시간과 추억을 남기는 것을 테마로 한 동아리 입니다!\n다양한 동아리 활동을 위해서 노력하도록 하겠습니다!",
+    "view": 795,
+    "scrap": 46
+  },
+  {
+    "id": 14,
+    "name": "M&N",
+    "category": "vac",
+    "area": "AL",
+    "logo": null,
+    "introduction": "안녕하세요, 특별한 추억을 만들고 새로움에 도전하는 여행동아리 입니다!",
+    "view": 168,
+    "scrap": 13
+  },
+  {
+    "id": 15,
+    "name": "OnOFF",
+    "category": "vac",
+    "area": "CL",
+    "logo": null,
+    "introduction": "여행동아리 OnOFF 입니다!",
+    "view": 1709,
+    "scrap": 97
+  },
+  {
+    "id": 16,
+    "name": "메디페어 (Medifare)",
+    "category": "vol",
+    "area": "CL",
+    "logo": null,
+    "introduction": "복지사각지대에서 방문봉사가 필요한 어르신들을 찾고 직접 방문하여 건강관리와 물품전달을 통해 실질적 구제를 실천한느 보건의료봉사단 메디페어입니다!",
+    "view": 776,
+    "scrap": 10
+  },
+  {
+    "id": 17,
+    "name": "WithUs(위더스)",
+    "category": "vol",
+    "area": "CL",
+    "logo": null,
+    "introduction": "강남구 자원봉사센터 소속. 전국 30여개의 학교와 1000여명의 누적 인원이 이루어낸 전국 연합 봉사단체입니다.",
+    "view": 1802,
+    "scrap": 93
+  },
+  {
+    "id": 18,
+    "name": "티피볼",
+    "category": "vol",
+    "area": "CL",
+    "logo": null,
+    "introduction": "치료놀이를 기반으로 아동봉사를 진행하는 연합 봉사동아리 티피볼입니다! 복지재단 소속 협력동아리로 복지재단에서 각종 물품과 비용등을 지원 받고 있으며, 서울시 마포구 자원봉사센터와 연계해 1365에 봉사시간 인정까지 되는 약 10년의 역사를 가지고 있는 탄탄한 동아리입니다!",
+    "view": 756,
+    "scrap": 2
+  },
+  {
+    "id": 19,
+    "name": "MMC",
+    "category": "bus",
+    "area": "CL",
+    "logo": null,
+    "introduction": "안녕하세요 MMC 입니다\n사업이나 창업 그리고 돈에 대해 관심이 있어 함께 공부하고 싶으시다면\n저희 MMC와 함께 해주세요!!",
+    "view": 2595,
+    "scrap": 43
+  },
+  {
+    "id": 20,
+    "name": "프로그라피",
+    "category": "bus",
+    "area": "CL",
+    "logo": null,
+    "introduction": "세상에 필요한 IT 서비스를 만드는 모임 프로그라피입니다!",
+    "view": 970,
+    "scrap": 30
+  },
+  {
+    "id": 21,
+    "name": "넥스트(NEXT)",
+    "category": "bus",
+    "area": "CL",
+    "logo": null,
+    "introduction": "저희는 창업에 관심 있는 대학생들이 모여 소통하고 스터디를 하는 넥스트 입니다.",
+    "view": 426,
+    "scrap": 6
+  },
+  {
+    "id": 22,
+    "name": "CLOUD CLUB",
+    "category": "bus",
+    "area": "CL",
+    "logo": null,
+    "introduction": "클라우드에 관심 있는 현직자와 학생이 모여 특정 벤더에 종속되지 않고 폭 넓은 클라우드 인프라를 경험할 수 있는 대외 동아리 입니다.",
+    "view": 336,
+    "scrap": 4
+  },
+  {
+    "id": 23,
+    "name": "위콕 (we cocktail)",
+    "category": "etc",
+    "area": "C L",
+    "logo": null,
+    "introduction": "안녕하세요.\n저희는 칵테일 소규모 동아리 위콕(we cock)입니다.\n위콕은 우리가 만드는 칵테일이라는 뜻을 갖고 있는 동아리입니다\n저희 칵테일 동아리는 칵테일에 관심 있는 사람들이 모여서 칵테일을 공부하고, 다양한 칵테일 바 탐방, 칵테일 만들기, 시음, 일일 칵테일바 운영 활동을 할 예정입니다.",
+    "view": 225,
+    "scrap": 3
+  },
+  {
+    "id": 24,
+    "name": "내일은 요리왕",
+    "category": "etc",
+    "area": "AL",
+    "logo": null,
+    "introduction": "공유주방에서 함께하는 전국 최대 규모 요리동아리입니다.",
+    "view": 5368,
+    "scrap": 105
+  },
+  {
+    "id": 25,
+    "name": "시대",
+    "category": "etc",
+    "area": "KB",
+    "logo": null,
+    "introduction": "함께 영상만드는 다큐동아리",
+    "view": 23,
+    "scrap": 1
+  }
+]
